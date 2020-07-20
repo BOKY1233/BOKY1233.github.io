@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test Ppaer"
+title:  "Test Paper"
 date:   2020-7-29 21:03:36 +0530
 categories: English Test
 ---
